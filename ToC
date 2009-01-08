@@ -1,0 +1,63 @@
+
+* \maketitle
+
+
+* GNU/Linux: com'e'
+** Kde
+** Gnome
+** Xfce
+
+* Questioni etico/legali
+
+** Che vuol dire GNU/Linux ?
+
+** GNU ?
+*** Gnu's Not Unix
+**** Che vuol dire Software Libero ?
+**** Le quattro liberta' fondamentali
+*** GNU GPL
+
+** Linux ?
+
+* Questioni tecniche
+
+** Gli strati del sistema operativo
+*** Gli strati del Kernel
+*** Gli strati del sistema grafico
+** Vantaggi -> Esempi
+** Esempi: AIGLX/XGL -> Compiz
+
+
+* The Linux way!
+** Gestione del sistema
+** La configurazione del sistema: files di testo
+
+** Il sistema come insieme di "moduli" e programmi
+** I pacchetti
+*** Gestione dei pacchetti
+** Le distribuzioni
+
+** Che cambia tra una distro e l'altra?
+** Gestione dei pacchetti
+
+* Uso del sistema [a.k.a: viene il bello!]
+
+* Il K Desktop Environment
+
+* Linux for PROs: Programmare con GNU/Linux
+* Perche' GNU/Linux e' il miglior sistema per programmare
+
+** Tools per programmare:
+*** Compilatore
+**** GCC
+*** Sistemi di revisione
+
+*** GNU Make
+*** GDB
+
+** IDE
+**** Ambiente integrato: che vuol dire?
+***** Eclipse
+***** NetBeans
+***** GNU Emacs
+*** Vim
