@@ -1,7 +1,32 @@
 Queste sono alcune slides realizzate come compiti per le vacanze di
 Natale, assegnatemi dal professore Nigro.
 
+Le slides sono molto semplicistiche e potrebbero contenere qualche
+scorrettezza. Questo è ok, perchè non sono state pensate per un pubblico
+esperto.
+
 Con ogni commit, in genere, uploado anche una versione in PDF delle
 slides.
 
+A causa della dimensione delle immagini nel formato EPS, ho dovuto
+eliminare le immagini nel formato EPS, lasciandole nei formati Jpeg e
+PNG.
+
+Le immagini verranno tradotte al momento della compilazione attraverso
+il programma convert della suite ImageMagic.
+
+Per ottenere il pdf partendo dai sorgenti, quindi:
+
+	./compile.sh --compile
+
+Per eliminare i files intermedi della compilazione:
+	./compile.sh --clean
+
+Per eliminare tutti i risultati della compilazione
+	./compile.sh --clean-all
+
 Licenza Creative Commons BY-ND-SA
+
+Per informazioni, suggerimenti, patch e quant'altro:
+					Emanuele Santoro
+					santoro@autistici.org
